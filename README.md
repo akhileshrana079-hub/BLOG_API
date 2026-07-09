@@ -2,8 +2,8 @@
 
 A small full-stack blog with **JWT auth**, **public read** access, and **owner-only** create / edit / delete. The backend is a tiny Express + MongoDB API; the frontend is a Next.js 14 (App Router) app.
 
-- **Live frontend:** *blog-api-kappa-sepia.vercel.app*  ← replace with your Vercel URL
-- **Live backend:** *https://blog-api-mvob.onrender.com*  ← replace with your Render URL
+- **Live frontend:** *https://blog-api-kappa-sepia.vercel.app/*  
+- **Live backend:** *https://blog-api-mvob.onrender.com* 
 
 ---
 
@@ -266,4 +266,4 @@ Blog_API/
 
 ## License
 
-MIT — do whatever you like.
+MIT 
